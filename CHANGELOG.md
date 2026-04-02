@@ -2,6 +2,10 @@
 
 ## master
 
+## 1.6.4 (2026-04-02)
+
+- Require MFA to publish the gem.
+
 ## 1.6.3 (2026-02-19)
 
 - Handle nil input from gRPC. ([@palkan][])
