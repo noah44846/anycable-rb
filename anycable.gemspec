@@ -18,7 +18,8 @@ Gem::Specification.new do |spec|
     "documentation_uri" => "https://docs.anycable.io/",
     "homepage_uri" => "https://anycable.io/",
     "source_code_uri" => "http://github.com/anycable/anycable-rb",
-    "funding_uri" => "https://github.com/sponsors/anycable"
+    "funding_uri" => "https://github.com/sponsors/anycable",
+    "rubygems_mfa_required" => "true"
   }
 
   spec.executables = []
